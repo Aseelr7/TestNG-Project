@@ -5,5 +5,6 @@ public class Sample {
             System.out.println(i);
         }
         System.out.println("commit one");
+        System.out.println("commit two");
     } //here is branch one
 }
