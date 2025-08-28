@@ -1,3 +1,27 @@
 2025-08-28 03:46:52 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
 2025-08-28 03:46:54 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
 2025-08-28 03:46:54 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:20:50 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:20:51 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:20:53 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:26:42 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:26:43 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:26:45 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:26:53 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:26:55 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:26:56 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:27:25 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:27:26 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:27:27 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:28:06 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:28:06 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:28:07 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:28:07 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:28:08 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:28:08 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:28:09 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:28:10 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:28:11 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistration - provided credentials
+2025-08-28 04:36:18 [main] INFO  testCases.TC001_AccountRegistration - Test Case Started
+2025-08-28 04:36:20 [main] INFO  testCases.TC001_AccountRegistration - Clicked on my account and registration
+2025-08-28 04:36:21 [main] INFO  testCases.TC001_AccountRegistration - provided credentials
